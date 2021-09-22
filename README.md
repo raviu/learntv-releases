@@ -1,21 +1,23 @@
-# LearnTV Release v0.0.10
+# LearnTV Release v0.0.11
 
 ## Installation & Upgrade 
 
-To install or upgrade LearnTV utility scripts v0.0.10, you should run the [install](https://raw.githubusercontent.com/raviu/learntv-releases/v0.0.10/install.sh) script. To do that, you may either download and run the script manually, or use the following cURL or Wget command:
+To install or upgrade LearnTV utility scripts v0.0.11, you should run the [install](https://raw.githubusercontent.com/raviu/learntv-releases/v0.0.11/install.sh) script. To do that, you may either download and run the script manually, or use the following cURL or Wget command:
 
 ```
-curl -o- https://raw.githubusercontent.com/raviu/learntv-releases/v0.0.10/install.sh | bash
+curl -o- https://raw.githubusercontent.com/raviu/learntv-releases/v0.0.11/install.sh | bash
 ```
 
 ```
-wget -qO- https://raw.githubusercontent.com/raviu/learntv-releases/v0.0.10/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/raviu/learntv-releases/v0.0.11/install.sh | bash
 ```
 
 
 ## Version Archive 
 
 For the latest version always go here: https://github.com/raviu/learntv-releases
+### v0.0.10
+https://github.com/raviu/learntv-releases/tree/v0.0.10
 ### v0.0.9
 https://github.com/raviu/learntv-releases/tree/v0.0.9
 ### v0.0.8
